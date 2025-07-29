@@ -1,4 +1,4 @@
-# Notion API Handler Java
+# Java Notion Handler
 
 A comprehensive Java library for interacting with the Notion API and handling Notion webhooks. This project simplifies the process of modifying Notion databases, querying data, and extracting values from Notion API responses and webhook requests. Designed for ease of use and extensibility, this library is ideal for developers looking to integrate Notion with their Java applications.
 
