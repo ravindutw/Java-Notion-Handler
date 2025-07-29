@@ -1,4 +1,4 @@
-package notionpkg;
+package com.ravinduw.software.notionhandler;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
